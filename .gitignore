@@ -1,0 +1,13 @@
+# Firebase
+firebase.json
+firebase-debug.log
+firebase-*.*
+
+node_modules
+.VSCodeCounter
+.firebase
+firebaserc
+firebase-debug.log
+
+package-lock.json
+package.json
