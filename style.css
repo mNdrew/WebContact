@@ -145,5 +145,12 @@ hr{
     margin: 1rem;
     /* create styling for spacer element for navbar to not cover elements */
 
+}
 
+#socialTag{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 3px;
+    border-radius: 260px;
 }
