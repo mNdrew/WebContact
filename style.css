@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Space Grotesk', sans-serif;
     background: linear-gradient(45deg, #56c7f3 0%, #d65959 50%, #4612d6 100%);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 main{
@@ -11,6 +11,7 @@ main{
     align-items: center;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5)255, 0.5;
 }
+
 #topog{
 
     /* TOPOGRAPHY */
@@ -166,10 +167,3 @@ hr{
     margin: 3px;
     border-radius: 260px;
 }
-
-card img.profile {
-    max-height: 150px; /* Set maximum height for profile images */
-    object-fit: cover; /* Ensure the image scales properly */
-    border-radius: 50%; /* Optional: Make the image circular */
-  }
-  
